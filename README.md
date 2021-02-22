@@ -7,3 +7,4 @@ Clase Mineria de Datos 002
 [Ejemplo 1 Base de datos](https://github.com/vladimirmtz/MineriaDatos-002-FCFM/blob/main/Ej1_BaseDeDatos_Equipo_5.pdf)
 
 [Ejercicios Basicos de Python](https://github.com/vladimirmtz/MineriaDatos-002-FCFM/blob/main/Ej_Python_1688132.ipynb)
+
