@@ -8,5 +8,7 @@ Clase Mineria de Datos 002
 
 [Ejercicios Basicos de Python](https://github.com/vladimirmtz/MineriaDatos-002-FCFM/blob/main/Ej_Python_1688132.ipynb)
 
+[Practica Limpieza de datos](https://github.com/VictorQuirozGarcia/miner-a-de-datos-grupo-02/blob/main/Ej_Limpieza_Equipo5.ipynb)
+
 [Primer avance del PIA](https://github.com/VictorQuirozGarcia/miner-a-de-datos-grupo-02/blob/main/Avance1_PIA_Equipo5.ipynb)
 
