@@ -12,3 +12,6 @@ Clase Mineria de Datos 002
 
 [Primer avance del PIA](https://github.com/VictorQuirozGarcia/miner-a-de-datos-grupo-02/blob/main/Avance1_PIA_Equipo5.ipynb)
 
+
+## Fase 2
+[Tecnicas de Mineria - Presentacion](https://github.com/VictorQuirozGarcia/miner-a-de-datos-grupo-02/blob/main/Presentacion_Arboles-de-decision_Equipo-5.pdf)
