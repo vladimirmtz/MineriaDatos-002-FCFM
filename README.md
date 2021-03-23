@@ -21,3 +21,5 @@ Clase Mineria de Datos 002
 [Ejemplo Arbol de decision - Regresion](https://github.com/VictorQuirozGarcia/miner-a-de-datos-grupo-02/blob/main/Ejemplo%20regresion.ipynb)
 
 [Arbol de decision - Kahoot](https://github.com/VictorQuirozGarcia/miner-a-de-datos-grupo-02/blob/main/Calificacion_Arboles-de-Decision_Equipo-5.pdf)
+
+[Mapa Mental 2](https://github.com/vladimirmtz/MineriaDatos-002-FCFM/blob/main/MapaMental_2_1688132.pdf)
