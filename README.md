@@ -23,3 +23,7 @@ Clase Mineria de Datos 002
 [Arbol de decision - Kahoot](https://github.com/VictorQuirozGarcia/miner-a-de-datos-grupo-02/blob/main/Calificacion_Arboles-de-Decision_Equipo-5.pdf)
 
 [Mapa Mental 2](https://github.com/vladimirmtz/MineriaDatos-002-FCFM/blob/main/MapaMental_2_1688132.pdf)
+
+[Practica de visualizacion de datos](https://github.com/VictorQuirozGarcia/miner-a-de-datos-grupo-02/blob/main/Visualizaci%C3%B3n_5.ipynb)
+
+[Segundo avance del PIA](https://github.com/VictorQuirozGarcia/miner-a-de-datos-grupo-02/blob/main/AvancePIA_II_002_5.ipynb)
