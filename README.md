@@ -27,3 +27,5 @@ Clase Mineria de Datos 002
 [Practica de visualizacion de datos](https://github.com/VictorQuirozGarcia/miner-a-de-datos-grupo-02/blob/main/Visualizaci%C3%B3n_5.ipynb)
 
 [Segundo avance del PIA](https://github.com/VictorQuirozGarcia/miner-a-de-datos-grupo-02/blob/main/AvancePIA_II_002_5.ipynb)
+
+[Segundo avance del PIA(Corregido)](https://github.com/VictorQuirozGarcia/miner-a-de-datos-grupo-02/blob/main/AvancePIA_II_002_5%2C%20correcion.ipynb)
