@@ -29,3 +29,6 @@ Clase Mineria de Datos 002
 [Segundo avance del PIA](https://github.com/VictorQuirozGarcia/miner-a-de-datos-grupo-02/blob/main/AvancePIA_II_002_5.ipynb)
 
 [Segundo avance del PIA(Corregido)](https://github.com/VictorQuirozGarcia/miner-a-de-datos-grupo-02/blob/main/AvancePIA_II_002_5%2C%20correcion.ipynb)
+
+## Fase 3
+[Proyecto Final](https://github.com/vladimirmtz/MineriaDatos-002-FCFM/blob/main/Proyecto%20Final%20(2).ipynb)
