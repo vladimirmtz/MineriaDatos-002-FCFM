@@ -32,3 +32,7 @@ Clase Mineria de Datos 002
 
 ## Fase 3
 [Proyecto Final](https://github.com/vladimirmtz/MineriaDatos-002-FCFM/blob/main/Proyecto%20Final%20(2).ipynb)
+
+[Poster](https://github.com/VictorQuirozGarcia/miner-a-de-datos-grupo-02/blob/main/Poster%20(enfermedades%20cardiacas).pdf)
+
+[Imagenes del poster](https://github.com/VictorQuirozGarcia/miner-a-de-datos-grupo-02/tree/main/Imagenes%20proyecto)
